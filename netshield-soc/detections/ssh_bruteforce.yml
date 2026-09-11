@@ -1,0 +1,8 @@
+id: NS-SSH-001
+title: SSH Brute Force Pattern
+severity: high
+type: ssh_bruteforce
+threshold: 5
+mitre_id: T1110.001
+mitre_name: Password Guessing
+description: Multiple SSH authentication attempts from one source indicate possible password guessing.
