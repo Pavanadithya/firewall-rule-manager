@@ -1,0 +1,13 @@
+{"_source":"zeek","ts":"2026-09-11T10:10:00Z","event_type":"conn","id.orig_h":"10.10.30.44","id.resp_h":"10.10.10.20","id.orig_p":40000,"id.resp_p":21,"proto":"tcp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:01Z","event_type":"conn","id.orig_h":"10.10.30.44","id.resp_h":"10.10.10.20","id.orig_p":40001,"id.resp_p":22,"proto":"tcp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:02Z","event_type":"conn","id.orig_h":"10.10.30.44","id.resp_h":"10.10.10.20","id.orig_p":40002,"id.resp_p":23,"proto":"tcp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:03Z","event_type":"conn","id.orig_h":"10.10.30.44","id.resp_h":"10.10.10.20","id.orig_p":40003,"id.resp_p":25,"proto":"tcp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:04Z","event_type":"conn","id.orig_h":"10.10.30.44","id.resp_h":"10.10.10.20","id.orig_p":40004,"id.resp_p":53,"proto":"tcp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:05Z","event_type":"conn","id.orig_h":"10.10.30.44","id.resp_h":"10.10.10.20","id.orig_p":40005,"id.resp_p":80,"proto":"tcp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:06Z","event_type":"conn","id.orig_h":"10.10.30.44","id.resp_h":"10.10.10.20","id.orig_p":40006,"id.resp_p":110,"proto":"tcp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:07Z","event_type":"conn","id.orig_h":"10.10.30.44","id.resp_h":"10.10.10.20","id.orig_p":40007,"id.resp_p":139,"proto":"tcp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:08Z","event_type":"dns","id.orig_h":"10.10.30.70","id.resp_h":"10.10.10.53","query":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.x1.example.test","proto":"udp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:09Z","event_type":"dns","id.orig_h":"10.10.30.70","id.resp_h":"10.10.10.53","query":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.x2.example.test","proto":"udp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:10Z","event_type":"dns","id.orig_h":"10.10.30.70","id.resp_h":"10.10.10.53","query":"cccccccccccccccccccccccccccccccccccccccccccccccc.x3.example.test","proto":"udp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:11Z","event_type":"dns","id.orig_h":"10.10.30.70","id.resp_h":"10.10.10.53","query":"dddddddddddddddddddddddddddddddddddddddddddddddd.x4.example.test","proto":"udp"}
+{"_source":"zeek","ts":"2026-09-11T10:10:12Z","event_type":"dns","id.orig_h":"10.10.30.70","id.resp_h":"10.10.10.53","query":"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.x5.example.test","proto":"udp"}
