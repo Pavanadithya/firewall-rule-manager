@@ -1,0 +1,9 @@
+id: NS-DNS-001
+title: DNS Tunneling Indicator
+severity: high
+type: dns_tunneling
+threshold: 5
+min_query_length: 45
+mitre_id: T1071.004
+mitre_name: DNS
+description: High-volume DNS activity with unusually long query names may indicate covert data transfer.
