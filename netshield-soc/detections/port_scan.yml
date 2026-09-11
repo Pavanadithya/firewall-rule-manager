@@ -1,0 +1,8 @@
+id: NS-NET-001
+title: Network Port Scan
+severity: medium
+type: port_scan
+threshold: 8
+mitre_id: T1046
+mitre_name: Network Service Scanning
+description: One source probes many destination ports on a host, indicating reconnaissance.
