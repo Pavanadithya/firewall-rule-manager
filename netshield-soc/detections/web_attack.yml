@@ -1,0 +1,12 @@
+id: NS-WEB-001
+title: Web Attack Indicator
+severity: critical
+type: web_attack
+signatures:
+  - "union select"
+  - "../"
+  - "etc/passwd"
+  - "<script"
+mitre_id: T1190
+mitre_name: Exploit Public-Facing Application
+description: Suspicious HTTP request patterns associated with exploitation or injection attempts.
