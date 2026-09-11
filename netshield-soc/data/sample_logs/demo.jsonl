@@ -1,0 +1,7 @@
+{"_source":"zeek","ts":"2026-09-11T10:00:00Z","event_type":"ssh","id.orig_h":"10.10.20.55","id.resp_h":"10.10.10.20","id.orig_p":52000,"id.resp_p":22,"proto":"tcp","user":"root"}
+{"_source":"zeek","ts":"2026-09-11T10:00:01Z","event_type":"ssh","id.orig_h":"10.10.20.55","id.resp_h":"10.10.10.20","id.orig_p":52001,"id.resp_p":22,"proto":"tcp","user":"root"}
+{"_source":"zeek","ts":"2026-09-11T10:00:02Z","event_type":"ssh","id.orig_h":"10.10.20.55","id.resp_h":"10.10.10.20","id.orig_p":52002,"id.resp_p":22,"proto":"tcp","user":"root"}
+{"_source":"zeek","ts":"2026-09-11T10:00:03Z","event_type":"ssh","id.orig_h":"10.10.20.55","id.resp_h":"10.10.10.20","id.orig_p":52003,"id.resp_p":22,"proto":"tcp","user":"root"}
+{"_source":"zeek","ts":"2026-09-11T10:00:04Z","event_type":"ssh","id.orig_h":"10.10.20.55","id.resp_h":"10.10.10.20","id.orig_p":52004,"id.resp_p":22,"proto":"tcp","user":"root"}
+{"_source":"zeek","ts":"2026-09-11T10:00:05Z","event_type":"ssh","id.orig_h":"10.10.20.55","id.resp_h":"10.10.10.20","id.orig_p":52005,"id.resp_p":22,"proto":"tcp","user":"root"}
+{"_source":"zeek","ts":"2026-09-11T10:00:10Z","event_type":"http","id.orig_h":"10.10.40.9","id.resp_h":"10.10.10.30","id.orig_p":54122,"id.resp_p":443,"proto":"tcp","uri":"/login?user=admin%27%20UNION%20SELECT%20password%20FROM%20users"}
